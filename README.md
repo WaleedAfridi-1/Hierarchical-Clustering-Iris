@@ -21,16 +21,16 @@ The process includes scaling, dendrogram visualization, and final clustering wit
 ## 📷 Visualizations
 
 ### 🔹 Pair Plot of Actual Data
-![Pair Plot](plots/Actual Pairplot.png)
+![Pair Plot](plots/Actual_Pairplot.png)
 
 ### 🔹 Dendrogram
 ![Dendrogram](plots/Dendrogram.png)
 
 ### 🔹 Scatter Plot (Petal Length vs Petal Width)
-![Scatter Plot](plots/Clusters of Iris Dataset (Petal Length vs Petal Width).png)
+![Scatter Plot](plots/Clusters_of_Iris_Dataset_(Petal_Length_vs_Petal_Width).png)
 
 ### 🔹 Pair Plot (All Features with Clusters)
-![Pair Plot](plots/Visualizing Clusters with Pair Plot.png)  
+![Pair Plot](plots/Visualizing_Clusters_with_Pair_Plot.png)  
 
 
 ---
