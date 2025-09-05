@@ -21,7 +21,7 @@ The process includes scaling, dendrogram visualization, and final clustering wit
 ## 📷 Visualizations
 
 ### 🔹 Pair Plot of Actual Data
-![Pair Plot](plots/ActualPairplot.png)
+![Pair Plot](plots/Actual Pairplot.png)
 
 ### 🔹 Dendrogram
 ![Dendrogram](plots/Dendrogram.png)
